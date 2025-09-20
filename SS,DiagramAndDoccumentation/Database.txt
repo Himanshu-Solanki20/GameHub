@@ -1,0 +1,25 @@
+Database name : GameHubDB
+
+CREATE TABLE [dbo].[GameHistory] (
+    [Id]        INT            IDENTITY (1, 1) NOT NULL,
+    [Username]  NVARCHAR (100) NULL,
+    [GameName]  NVARCHAR (50)  NULL,
+    [Winner]    NVARCHAR (MAX) NULL,
+    [Moves]     INT            NULL,
+    [Score]     INT            NULL,
+    [ExtraInfo] NVARCHAR (100) NULL,
+    [PlayedOn]  DATETIME       DEFAULT (getdate()) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+CREATE TABLE [dbo].[Users] (
+    [UserID]       INT            IDENTITY (1, 1) NOT NULL,
+    [Username]     NVARCHAR (50)  NOT NULL,
+    [Email]        NVARCHAR (100) NOT NULL,
+    [PasswordHash] NVARCHAR (100) NOT NULL,
+    [DateCreated]  DATETIME       DEFAULT (getdate()) NOT NULL,
+    PRIMARY KEY CLUSTERED ([UserID] ASC),
+    UNIQUE NONCLUSTERED ([Username] ASC),
+    UNIQUE NONCLUSTERED ([Email] ASC)
+);
+

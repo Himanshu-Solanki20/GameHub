@@ -1,0 +1,186 @@
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\myprj.dll.config
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\myprj.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\myprj.pdb
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\csc.exe
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\csc.exe.config
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\csc.rsp
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\csi.exe
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\csi.exe.config
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\csi.rsp
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.AppContext.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.Console.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.Security.Claims.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\vbc.exe
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\vbc.exe.config
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\vbc.rsp
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\obj\Debug\myprj.csprojAssemblyReference.cache
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\obj\Debug\myprj.csproj.CoreCompileInputs.cache
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\obj\Debug\myprj.csproj.CopyComplete
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\obj\Debug\myprj.dll
+C:\Users\Pooja Solanki\source\repos\myprj\myprj\obj\Debug\myprj.pdb
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\myprj.dll.config
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\myprj.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\myprj.pdb
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\csc.exe
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\csc.exe.config
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\csc.rsp
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\csi.exe
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\csi.exe.config
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\csi.rsp
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\Microsoft.Managed.Core.targets
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.AppContext.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.Collections.Immutable.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.Console.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.IO.Compression.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.IO.FileSystem.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.IO.Pipes.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.Reflection.Metadata.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.Security.AccessControl.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.Security.Claims.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.Security.Principal.Windows.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.ValueTuple.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.Xml.XmlDocument.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.Xml.XPath.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\vbc.exe
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\vbc.exe.config
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\vbc.rsp
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\VBCSCompiler.exe
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\roslyn\VBCSCompiler.exe.config
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\himanshu\VisualStudio2019\myprj\myprj\obj\Debug\myprj.csprojAssemblyReference.cache
+E:\himanshu\VisualStudio2019\myprj\myprj\obj\Debug\myprj.csproj.CopyComplete
+E:\himanshu\VisualStudio2019\myprj\myprj\obj\Debug\myprj.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\obj\Debug\myprj.pdb
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\BCrypt.Net-Next.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\System.Buffers.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\System.Memory.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\System.Numerics.Vectors.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\BCrypt.Net-Next.xml
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\System.Buffers.xml
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\System.Memory.xml
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\System.Numerics.Vectors.xml
+E:\himanshu\VisualStudio2019\myprj\myprj\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\myprj\myprj\bin\myprj.dll.config
+E:\myprj\myprj\bin\myprj.dll
+E:\myprj\myprj\bin\myprj.pdb
+E:\myprj\myprj\bin\roslyn\csc.exe
+E:\myprj\myprj\bin\roslyn\csc.exe.config
+E:\myprj\myprj\bin\roslyn\csc.rsp
+E:\myprj\myprj\bin\roslyn\csi.exe
+E:\myprj\myprj\bin\roslyn\csi.exe.config
+E:\myprj\myprj\bin\roslyn\csi.rsp
+E:\myprj\myprj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\myprj\myprj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\myprj\myprj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\myprj\myprj\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\myprj\myprj\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\myprj\myprj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\myprj\myprj\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\myprj\myprj\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\myprj\myprj\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\myprj\myprj\bin\roslyn\Microsoft.Managed.Core.targets
+E:\myprj\myprj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\myprj\myprj\bin\roslyn\System.AppContext.dll
+E:\myprj\myprj\bin\roslyn\System.Collections.Immutable.dll
+E:\myprj\myprj\bin\roslyn\System.Console.dll
+E:\myprj\myprj\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\myprj\myprj\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\myprj\myprj\bin\roslyn\System.IO.Compression.dll
+E:\myprj\myprj\bin\roslyn\System.IO.FileSystem.dll
+E:\myprj\myprj\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\myprj\myprj\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\myprj\myprj\bin\roslyn\System.IO.Pipes.dll
+E:\myprj\myprj\bin\roslyn\System.Reflection.Metadata.dll
+E:\myprj\myprj\bin\roslyn\System.Security.AccessControl.dll
+E:\myprj\myprj\bin\roslyn\System.Security.Claims.dll
+E:\myprj\myprj\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\myprj\myprj\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\myprj\myprj\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\myprj\myprj\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\myprj\myprj\bin\roslyn\System.Security.Principal.Windows.dll
+E:\myprj\myprj\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\myprj\myprj\bin\roslyn\System.ValueTuple.dll
+E:\myprj\myprj\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\myprj\myprj\bin\roslyn\System.Xml.XmlDocument.dll
+E:\myprj\myprj\bin\roslyn\System.Xml.XPath.dll
+E:\myprj\myprj\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\myprj\myprj\bin\roslyn\vbc.exe
+E:\myprj\myprj\bin\roslyn\vbc.exe.config
+E:\myprj\myprj\bin\roslyn\vbc.rsp
+E:\myprj\myprj\bin\roslyn\VBCSCompiler.exe
+E:\myprj\myprj\bin\roslyn\VBCSCompiler.exe.config
+E:\myprj\myprj\bin\BCrypt.Net-Next.dll
+E:\myprj\myprj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\myprj\myprj\bin\System.Buffers.dll
+E:\myprj\myprj\bin\System.Memory.dll
+E:\myprj\myprj\bin\System.Numerics.Vectors.dll
+E:\myprj\myprj\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\myprj\myprj\bin\BCrypt.Net-Next.xml
+E:\myprj\myprj\bin\System.Buffers.xml
+E:\myprj\myprj\bin\System.Memory.xml
+E:\myprj\myprj\bin\System.Numerics.Vectors.xml
+E:\myprj\myprj\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\myprj\myprj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\myprj\myprj\obj\Debug\myprj.csprojAssemblyReference.cache
+E:\myprj\myprj\obj\Debug\myprj.csproj.CopyComplete
+E:\myprj\myprj\obj\Debug\myprj.dll
+E:\myprj\myprj\obj\Debug\myprj.pdb
